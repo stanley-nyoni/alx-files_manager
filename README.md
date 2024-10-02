@@ -13,4 +13,4 @@ The objective is to build a simple platform to upload and view files with:
 
 ## Authors
 
-Mqelisi Stanley Nyoni <mqelsinyoni77@gmail.com>
+Mqelisi Stanley Nyoni <mqelisinyoni77@gmail.com>
